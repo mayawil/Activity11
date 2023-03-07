@@ -6,6 +6,6 @@ $(document).ready(function() {
         // will be as tall as its content
         heightStyle: "content",
         // all can be collapsed
-        collapsible: "true",
+        collapsible: "false",
     });
 });
