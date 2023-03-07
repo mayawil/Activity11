@@ -4,7 +4,7 @@ $(document).ready(function() {
         // can click on each accordian
         event: "click",
         // will be as tall as its content
-        heightStyle: "content",
+        // heightStyle: "content",
         // all can be collapsed
         collapsible: "false",
     });
